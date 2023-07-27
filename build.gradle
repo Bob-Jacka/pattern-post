@@ -3,7 +3,7 @@ plugins {
     id 'io.freefair.lombok' version '5.3.0'
 }
 
-group 'ru.netology.web'
+group 'ru.netology.testmode'
 version '1.0-SNAPSHOT'
 sourceCompatibility = 11
 compileJava.options.encoding = "UTF-8"
